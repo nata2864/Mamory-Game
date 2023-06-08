@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": false,
+        "lib": ["DOM", "ES2019"],
+        "outDir": "./dist/",
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "es5",
+        "allowJs": true,
+        "moduleResolution": "node"
+    }
+}
